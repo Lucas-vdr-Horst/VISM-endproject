@@ -4,3 +4,4 @@ __pycache__
 .ipynb_checkpoints
 kaggle.json
 geolocation-geoguessr-images-50k
+logs
