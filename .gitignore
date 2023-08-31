@@ -5,3 +5,4 @@ __pycache__
 kaggle.json
 geolocation-geoguessr-images-50k
 logs
+checkpoints
